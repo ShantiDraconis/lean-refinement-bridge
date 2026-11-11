@@ -1,5 +1,7 @@
 # lean-refinement-bridge
 
+Author: Tiago Paschoalatto Fagliari — ORCID [0009-0006-6874-3910](https://orcid.org/0009-0006-6874-3910)
+
 Measurable target: prove the physical evaluator refines the logical evaluator.
 
 Acceptance:
